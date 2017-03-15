@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 28 16:01:42 GMT+05:30 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015a-8446-9620-000002553e80 
+on database directory memory:D:\microservices\microservices-gradle\inventory-server\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/p7110677/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.13.1.1/29c42babe5c5463c6eea45487d3cfbfe8348ccd1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0-b132
+user.dir=D:\microservices\microservices-gradle\inventory-server
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
